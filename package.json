@@ -1,5 +1,5 @@
 {
-  "name": "@sishin/cordova-plugin-app-version",
+  "name": "@tlshenm/cordova-plugin-app-version",
   "version": "0.1.15",
   "description": "Cordova plugin to return the version number of the current app",
   "scripts": {
