@@ -25,7 +25,7 @@ To avoid version conflicts, please remove the original unmaintained package firs
 
 Then, install this version:
 
-    cordova plugin add @sishin/cordova-plugin-app-version
+    cordova plugin add @tlshenm/cordova-plugin-app-version
 
 
 ## Credits
